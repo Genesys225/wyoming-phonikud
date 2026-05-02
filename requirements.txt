@@ -1,0 +1,6 @@
+phonikud-onnx
+phonikud
+piper-onnx>=1.0.5
+wyoming>=1.8.0
+huggingface_hub
+numpy
