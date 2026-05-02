@@ -56,6 +56,7 @@ def _make_info(voice: str) -> Info:
                 description="Hebrew TTS — Phonikud + Piper ONNX",
                 attribution=attr,
                 installed=True,
+                version="1.0.0",
                 voices=[
                     TtsVoice(
                         name=f"he_IL-{voice}-medium",
