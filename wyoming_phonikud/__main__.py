@@ -63,6 +63,7 @@ def _make_info(voice: str) -> Info:
                         attribution=attr,
                         installed=True,
                         languages=["he-IL"],
+                        version="1.0.0",
                     )
                 ],
             )
